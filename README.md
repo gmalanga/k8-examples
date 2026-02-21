@@ -4,7 +4,8 @@ K8 project examples
 
 ## List of projects
 
-> [!IMPORTANT] Prerequisites: 
+> [!IMPORTANT] 
+> Prerequisites: 
 > - Docker Desktop
 > - Kubernetes cluster
 
